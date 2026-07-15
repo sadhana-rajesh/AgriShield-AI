@@ -21,4 +21,7 @@ An AI-powered plant disease detection system that provides real-time health diag
 4. Run the cells to initialize the system and perform plant disease diagnostics.
 
 ## Project Demo
-[Add a screenshot of your system output here]
+
+![Step 1: Interface](filename1.jpg)
+![Step 2: Upload & Settings](filename2.jpg)
+![Step 3: AI Diagnosis](filename3.jpg)
