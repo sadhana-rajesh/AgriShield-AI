@@ -14,4 +14,4 @@ An AI-powered plant disease detection system that provides real-time health diag
 
 ## Status
 - Currently in development.
--
+
