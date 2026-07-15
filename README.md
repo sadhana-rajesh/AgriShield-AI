@@ -22,6 +22,6 @@ An AI-powered plant disease detection system that provides real-time health diag
 
 ## Project Demo
 
-![Step 1: Interface](photo1(Interface).jpeg)
-![Step 2: Upload & Settings](photo2(upload&settings).jpeg)
-![Step 3: AI Diagnosis](photo3(Diagnosis&Advisory).jpeg)
+![Step 1: Interface](photo%201%28Interface%29.jpeg)
+![Step 2: Upload & Settings](photo2%7Bupload%26settings%7D.jpeg)
+![Step 3: AI Diagnosis](photo3%28Diagnosis%26Advisory%29.jpeg)
